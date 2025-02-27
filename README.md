@@ -1,2 +1,1 @@
-# aDApt-frontend
-repo for woc to provide frontend for nodeJS project
+# aDApt-collaborative-platform-for-students
